@@ -6,9 +6,9 @@ from mosaic_bot import __version__
 
 setuptools.setup(
     name = 'discord-mosaic-bot',
-    author = 'Jerie Wang',
-    url = 'https://mosaic.by.jerie.wang/',
-    author_email = 'mail@jerie.wang',
+    author = 'Mia Wang',
+    url = 'https://bemosiac.art/',
+    author_email = 'm@mia.wang',
     python_requires = '>=3.9',
     version = __version__,
     install_requires = [
